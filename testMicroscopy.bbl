@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{3DBlind}
+Yves Tourneur \& Éric~Thiébaut Ferréol~Soulez, Loïc~Denis.
+\newblock Blind deconvolution of 3d data in wide field fluorescence microscopy.
+\newblock \url{http://...}, 2012.
+
+\bibitem{born}
+{\em Principles of optics}.
+\newblock Pergamon Press Ltd, 1959.
+
+\bibitem{Noll}
+Robert~J. Noll.
+\newblock Zernike polynomials and atmospheric turbulence.
+\newblock {\em Optical Society of America}, 1976.
+
+\end{thebibliography}
